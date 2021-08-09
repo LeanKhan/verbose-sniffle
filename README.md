@@ -19,12 +19,12 @@ This RSS Reader takes RSS feed as a CLI argument or by running the program from 
 - Python 3.9
 - Pipenv
 
-# Assumed Prerequisites
+## Assumed Prerequisites
 
 - Windows 10 Home Version 20H2
 - Python 3.9 (64-bit)
 
-# Challenges
+## Challenges
 
 There's no extensive testing being done.
 
