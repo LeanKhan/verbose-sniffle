@@ -17,6 +17,7 @@ This RSS Reader takes RSS feed as a CLI argument or by running the program from 
 ## Tech/framework used
 
 - Python 3.9
+- Pipenv
 
 # Assumed Prerequisites
 
