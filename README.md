@@ -3,7 +3,7 @@
 This is a cli program that takes URL of a RSS feed and prints the Title, Summary and Link
 of all the entries
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[![Python language](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 ## Motivation
 
